@@ -24,7 +24,7 @@ The app relies on a secret set as the environment variable `JWT_SECRET` to produ
  - AWS Account
      - You can create an AWS account by signing up [here](https://aws.amazon.com/#).
      
-## Project Steps
+## Project Steps - Sample change
 
 Completing the project involves several steps:
 
